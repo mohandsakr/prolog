@@ -1,0 +1,5 @@
+male(grandfather).
+female(grandmother).
+male(father).
+son(brother,father).
+
